@@ -14,10 +14,14 @@ public class EverisMain {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
+
 		System.out.println("Hola a tod@s");
-		
+
 		/* INTRODUCIR NUEVOS SALUDOS */
+
+		System.out.println("Hola mundo FFF");
+
+		System.out.println("Hola Tellez maquina, mastodonte,bestia,titan,fiera,crak,rompe corazones");
 
 	}
 
